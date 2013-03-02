@@ -12,3 +12,8 @@ rsync (both local and remote)
 if you want email notifications, some sort of MTA (mail transfer agent, sendmail, exim4, etc..)
 hmm, some files to move?
 
+For the future? More intelligence, less unneeded vars (srsly with the "cur"), more than one selection, and anything else I can think of.
+
+-InAnimaTe
+
+
