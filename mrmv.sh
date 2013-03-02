@@ -41,8 +41,6 @@ fi
 
 
 
-echo ""
-
 #run function
 
 pickme
