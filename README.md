@@ -8,12 +8,15 @@ mrmv is very simple. You basically change the config file settings to your likin
 You then run mrmv and the rest is self explanatory. It definitely makes sense to have SSH keys (pretty much a must) and a remote box that is up.
 
 Requirements:
-rsync (both local and remote)
-if you want email notifications, some sort of MTA (mail transfer agent, sendmail, exim4, etc..)
-hmm, some files to move?
+rsync (both local and remote)  
+if you want email notifications, some sort of MTA (mail transfer agent, sendmail, exim4, etc..)  
+hmm, some files to move?  
+
+To use:  
+Just run the mrmv.sh file after making your config file.
+
 
 For the future? More intelligence, less unneeded vars (srsly with the "cur"), more than one selection, and anything else I can think of.
 
 -InAnimaTe
-
 
